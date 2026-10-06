@@ -1,0 +1,33 @@
+numpy>=1.23
+pandas>=1.5
+torch>=2.0
+scikit-learn>=1.2
+scipy>=1.10
+matplotlib>=3.6
+openpyxl>=3.0
+
+step1:- mentioned all libraries in requirements.txt file.
+if dont have libraries means install them using pip.
+- numpy
+- pandas
+- torch
+- scikit-learn
+- scipy
+- matplotlib
+- openpyxl
+
+step2:-import libraries
+step3:-load dataset
+step4:- data cleaning
+step5:- categorical transformation
+step6:- normalization
+step7:- feature organization
+step8:- train/test split
+step9:- multi-head cross-attention
+step10:- Kolmogorov-Arnold Network
+step11:- Stellar Oscillation Dhole Optimization
+step12:- optimized resource allocation
+step13:- performance evaluation
+step14:- comparative analysis
+
+after training complete automatically folder create and all plots and igures are saved in the folder
